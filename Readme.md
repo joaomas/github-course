@@ -4,4 +4,4 @@ Repositório teste
 
 Testes...
 
-- [] task1
+- [ ] task1
